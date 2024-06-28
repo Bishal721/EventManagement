@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  @apply text-orange-400;
+}
+body {
+  @apply bg-[#f2f1f1];
+}
+
+.container {
+  @apply max-w-5xl my-0 mx-auto py-0 px-5;
+}
+.pagination {
+  @apply [list-style:none] flex justify-center items-center mx-[0] my-8 text-[1rem];
+}
+
+.pagination .page-num {
+  @apply px-[10px] py-[5px] cursor-pointer rounded-[3px] font-normal text-[#333] border-[1px] border-[solid] border-[#333] m-[2px];
+}
+.pagination .page-num:hover {
+  @apply hover:text-[#fff] hover:bg-[#1f93ff];
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1717814105339",
+    "name": "Bishal Shrestha",
+    "email": "admin@gmail.com",
+    "password": "$2a$10$6zNGE7q0jn1sTeYf25mSNe8llV0LHUUe8MaSVenqhG6f7OkJpLfiC",
+    "role": "admin",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3MTc4MTQxMDUzMzkiLCJpYXQiOjE3MTc4MTQxMDUsImV4cCI6MTcxNzkwMDUwNX0.LpaM9X_BBglTmh0F-exxov1Bbg3Al1bivKX-J-8WpPA",
+    "image": "http://res.cloudinary.com/bishalshrestha/image/upload/v1715004276/bunztm112z49zlkiede3.jpg"
+  },
+  {
+    "_id": "1718019519682",
+    "name": "User ",
+    "email": "user@gmail.com",
+    "password": "$2a$10$hR5A1TjCaMFy100K0le8gOvTi9uVl.DduC2ShHl0Rguhv8JmAaiAC",
+    "role": "user",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3MTgwMTk1MTk2ODIiLCJpYXQiOjE3MTgwMTk1MTksImV4cCI6MTcxODEwNTkxOX0.O6RTgjfOIX9k3p7UojN1A_Nu0VoQadOfU9dYTgNYlCE",
+    "image": "https://i.ibb.co/4pDNDk1/avatar.png"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "1717939807875",
+    "title": "Annual Tech Conference ",
+    "description": "A conference bringing together technology enthusiasts and professionals.",
+    "startDate": "2024-06-09",
+    "endDate": "2024-06-16",
+    "venue": "Tech Park Convention Center,kathmandu",
+    "organizer": "Tech Innovators Inc.",
+    "sponsors": "XYZ Corp, ABC Enterprises",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "image": "https://media.istockphoto.com/id/628483496/photo/business-speaker-giving-a-talk-in-conference-hall.webp?b=1&s=170667a&w=0&k=20&c=KVbhjVwpQnYnRm6LBFu7PnVzuzN64RqqdkvUQ3ldGag="
+  },
+  {
+    "_id": "1717939807879",
+    "title": "Annual Tech Conference Nepal",
+    "description": "A conference bringing together technology enthusiasts and professionals.",
+    "startDate": "2024-06-09",
+    "endDate": "2024-06-16",
+    "venue": "Tech Park Convention Center,kathmandu",
+    "organizer": "Tech Innovators Inc.",
+    "sponsors": "XYZ Corp, ABC Enterprises",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "image": "https://media.istockphoto.com/id/628483496/photo/business-speaker-giving-a-talk-in-conference-hall.webp?b=1&s=170667a&w=0&k=20&c=KVbhjVwpQnYnRm6LBFu7PnVzuzN64RqqdkvUQ3ldGag="
+  },
+  {
+    "_id": "1717939807880",
+    "title": "Hackathons Nepal",
+    "description": "A conference bringing together technology enthusiasts and professionals.",
+    "startDate": "2024-06-28",
+    "endDate": "2024-06-29",
+    "venue": "Tech Park Convention Center,kathmandu",
+    "organizer": "Tech Innovators Inc.",
+    "sponsors": "XYZ Corp, ABC Enterprises",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "image": "https://th.bing.com/th/id/OIP.I-Bz30PQuCDZV0u0hOIRwQAAAA?w=315&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"
+  },
+  {
+    "_id": "1718018881026",
+    "title": "Hack",
+    "description": "A conference bringing together technology enthusiasts and professionals.",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-10",
+    "venue": "Tech Park Convention Center,kathmandu",
+    "organizer": "Tech Innovators Inc.",
+    "sponsors": "XYZ Corp, ABC Enterprises",
+    "startTime": "07:20",
+    "endTime": "17:00",
+    "image": "https://media.istockphoto.com/id/628483496/photo/business-speaker-giving-a-talk-in-conference-hall.webp?b=1&s=170667a&w=0&k=20&c=KVbhjVwpQnYnRm6LBFu7PnVzuzN64RqqdkvUQ3ldGag="
+  },
+  {
+    "_id": "1718018965126",
+    "title": "Techno Education",
+    "description": "A conference bringing together technology enthusiasts and professionals.",
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-14",
+    "venue": "Tech Park Convention Center,kathmandu",
+    "organizer": "Tech Innovators Inc.",
+    "sponsors": "XYZ Corp, ABC Enterprises",
+    "startTime": "06:15",
+    "endTime": "17:00",
+    "image": "https://media.istockphoto.com/id/628483496/photo/business-speaker-giving-a-talk-in-conference-hall.webp?b=1&s=170667a&w=0&k=20&c=KVbhjVwpQnYnRm6LBFu7PnVzuzN64RqqdkvUQ3ldGag="
+  },
+  {
+    "_id": "1718020431707",
+    "title": "Tech Infomatics",
+    "description": "This is a great event.",
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-11",
+    "venue": "Tech Park Convention Center,kathmandu",
+    "organizer": "Tech Innovators Inc.",
+    "sponsors": "XYZ Corp, ABC Enterprises",
+    "startTime": "05:38",
+    "endTime": "17:38",
+    "image": "https://media.istockphoto.com/id/628483496/photo/business-speaker-giving-a-talk-in-conference-hall.webp?b=1&s=170667a&w=0&k=20&c=KVbhjVwpQnYnRm6LBFu7PnVzuzN64RqqdkvUQ3ldGag="
+  }
+]
