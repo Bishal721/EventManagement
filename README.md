@@ -6,11 +6,7 @@ To download and use the project. Follow the below instructions
 To clone the project using HTTPS.
 - Https
 ```
-  git clone https://bishal721-admin@bitbucket.org/bishal721/yipl-log-processor.git
-  ```
-  Note: Use the following password to clone the project:
-  ```
-  ATBBGyDp2xqNzDUEb7RUXMDPWY7e7BAC86CE
+  https://github.com/Bishal721/EventManagement.git
   ```
   ## Setup Environment
   - Navigate to the client directory and install the dependencies:
